@@ -1,0 +1,31 @@
+.warnings-deal, .health-deal {
+  display: none;
+}
+
+.health-deal {
+  color: darkgreen;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+.form-group, .warnings-deal {
+  color: purple;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+body {
+  background-color: pink;
+}
+
+.jumbotron {
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  color: darkgreen;
+}
